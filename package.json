@@ -2,7 +2,7 @@
   "name": "brumby",
   "version": "0.0.0",
   "private": true,
-  "author": "Y",
+  "author": "Ethan Huynh",
   "description": "My very own personal assistant",
   "dependencies": {
     "hubot": "^2.19.0",
